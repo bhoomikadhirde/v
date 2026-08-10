@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Vedangi",
+  "description": "An interactive, magical 21st birthday surprise with synthesized chimes, a shy dodging button, an interactive candle cake, and a smooth cinematic memory slideshow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
